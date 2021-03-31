@@ -1,4 +1,5 @@
-# Object-Detection-Gender-and-Age
+# Object Detection + Genderand Age prediction
+
 Test to run object detection tensorflow API combined with gender and age prediction
 You must download the different models used into this project, the ssd_mobilenet is from the tensorflow API.
 
@@ -7,6 +8,7 @@ ssd_mobilenet https://github.com/tensorflow/models/blob/master/research/object_d
 ![](https://github.com/MiguelBenalcazar/Object-Detection-Gender-and-Age/blob/master/test.jpg)
 
 for age and gender detection you can follow this link and read it by yourself
+
 https://data-flair.training/blogs/python-project-gender-age-detection/
 
 
